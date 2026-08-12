@@ -1,0 +1,114 @@
+{
+  "1": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 1K",
+    "preco": 60.00,
+    "estoque": 10,
+    "descricao": "✅ • A virada é feita assim como especificado no canal de FAQS & EXPLICAÇÃO da MagnataStore.\n\n👨🏻‍💼 • De uma consul de 1K é possível extrair de R$700,00 a R$800,00 REAIS NUNCA o valor total, senão acaba tendo bloqueio preventivo e não será mais possível utilizar a consul.",
+    "categoria": "viradas"
+  },
+  "2": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 1.5K",
+    "preco": 90.00,
+    "estoque": 8,
+    "descricao": "✅ • A virada é feita assim como especificado no canal de FAQS & EXPLICAÇÃO da MagnataStore.\n\n👨🏻‍💼 • De uma consul de 1.5K é possível extrair de R$1.100,00 a R$1.200,00 REAIS NUNCA o valor total, senão acaba tendo bloqueio preventivo.",
+    "categoria": "viradas"
+  },
+  "3": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 2K",
+    "preco": 120.00,
+    "estoque": 6,
+    "descricao": "✅ • A virada é feita assim como especificado no canal de FAQS & EXPLICAÇÃO da MagnataStore.\n\n👨🏻‍💼 • De uma consul de 2K é possível extrair de R$1.500,00 a R$1.600,00 REAIS NUNCA o valor total.",
+    "categoria": "viradas"
+  },
+  "4": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 2.5K",
+    "preco": 150.00,
+    "estoque": 4,
+    "descricao": "✅ • A virada é feita assim como especificado no canal de FAQS & EXPLICAÇÃO da MagnataStore.\n\n👨🏻‍💼 • De uma consul de 2.5K é possível extrair de R$1.900,00 a R$2.000,00 REAIS.",
+    "categoria": "viradas"
+  },
+  "5": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 3K",
+    "preco": 180.00,
+    "estoque": 2,
+    "descricao": "✅ • A virada é feita assim como especificado no canal de FAQS & EXPLICAÇÃO da MagnataStore.\n\n👨🏻‍💼 • De uma consul de 3K é possível extrair de R$2.300,00 a R$2.400,00 REAIS.",
+    "categoria": "viradas"
+  },
+  "6": {
+    "titulo": "MAGNATASTORE01 - CURSO DO 7 ATUALIZADO 2026",
+    "preco": 75.00,
+    "estoque": 2,
+    "descricao": "CURSO EXCLUSIVO DA MAGNATASTORE PARA INICIANTES OU ATÉ MESMO PRA QUEM JÁ ESTÁ HÁ UM TEMPO NO 7\n\n🎯 CONTEÚDOS INCLUSOS:\n• COMO SÃO ADQUIRIDAS INFOCO\n• O QUE SÃO BINS\n• COMO FAZER APROVAÇÃO DE COMPRAS\n• CONSULTAR DADOS DA INFO\n• +8 MÓDULOS INTERESSANTES",
+    "categoria": "cursos"
+  },
+  "7": {
+    "titulo": "MAGNATASTORE01 - REEMBOLSO PIX",
+    "preco": 114.90,
+    "estoque": 3,
+    "descricao": "OBTENHA REEMBOLSO PELO MED\n\n✅ COM ESSE MÉTODO SERÁ POSSÍVEL RECEBER O REEMBOLSO VIA SISTEMA DE MED DO BANCO CENTRAL\n✅ MÉTODO NOVO, TESTADO E COMPROVADO!!",
+    "categoria": "cursos"
+  },
+  "8": {
+    "titulo": "MAGNATASTORE01 - SISTEMA DE ÓBITO | CADSUS",
+    "preco": 114.90,
+    "estoque": 3,
+    "descricao": "SISTEMA DE ÓBITO | CADSUS\n\n💀 TOMOU LOTTER DE UM RATO? COM ESSE TRAMPO NÓS COLOCAMOS O GOLPISTA EM ÓBITO VIA SISTEMA CADSUS\n💀 EM ÓBITO ELE TERÁ TODAS SUAS CONTAS BANCARIAS CANCELADAS!!",
+    "categoria": "cursos"
+  },
+  "9": {
+    "titulo": "MAGNATASTORE01 - ESQUEMA DIMAS FREE FIRE 2026",
+    "preco": 20.00,
+    "estoque": 100,
+    "descricao": "ESQUEMA DIMAS FF 2026\n\n🎮 COM ESSE MÉTODO VOCÊ SEGUIRÁ O PASSO A PASSO PARA OBTER DIAMANTES ILIMITADOS NO FREE FIRE！\n🎮 METODO NOVO, TESTADO E EXCLUSIVO",
+    "categoria": "cursos"
+  },
+  "10": {
+    "titulo": "MAGNATASTORE01 - ATESTADO MÉDICO EDITÁVEL",
+    "preco": 19.90,
+    "estoque": 3,
+    "descricao": "ATESTADO MÉDICO EDITÁVEL\n\n🏥 COM ESSE ATESTADO MÉDICO VOCÊ PODERÁ FALTAR A ESCOLA, TRABALHO\n🏥 EDITÁVEL: VOCÊ PODE ALTERAR DATAS, NOMES E INFORMAÇÕES",
+    "categoria": "cursos"
+  },
+  "11": {
+    "titulo": "MAGNATASTORE01 - CC Standard",
+    "preco": 30.00,
+    "estoque": 10,
+    "descricao": "✅ Garantia de live e débito\n✅ Garantia de no mínimo 100 de saldo\n⏱️ Tempo de trocas 5 minutos",
+    "categoria": "cc"
+  },
+  "12": {
+    "titulo": "MAGNATASTORE01 - CC Gold",
+    "preco": 50.00,
+    "estoque": 7,
+    "descricao": "✅ Garantia de live e débito\n✅ Garantia de no mínimo 100 de saldo\n⏱️ Tempo de trocas 5 minutos",
+    "categoria": "cc"
+  },
+  "13": {
+    "titulo": "MAGNATASTORE01 - CC Platinum",
+    "preco": 50.00,
+    "estoque": 9,
+    "descricao": "✅ Garantia de live e débito\n✅ Garantia de no mínimo 100 de saldo\n⏱️ Tempo de trocas 5 minutos",
+    "categoria": "cc"
+  },
+  "14": {
+    "titulo": "MAGNATASTORE01 - CC Black",
+    "preco": 80.00,
+    "estoque": 11,
+    "descricao": "✅ Garantia de live e débito\n✅ Garantia de no mínimo 100 de saldo\n⏱️ Tempo de trocas 5 minutos",
+    "categoria": "cc"
+  },
+  "15": {
+    "titulo": "MAGNATASTORE01 - CONSULTAVEL 600 DE LIMITE",
+    "preco": 74.90,
+    "estoque": 1,
+    "descricao": "💳 CONSULTAVEL COM 600 DE LIMITE MASCULINA.\n🔥 PRONTA PRA QUALQUER TRAMPO\n💰 CONSULTAVEL PERFEITA PARA VIRADAS DE SALDO OU COMPRAS EM SITES!",
+    "categoria": "consultaveis"
+  },
+  "16": {
+    "titulo": "MAGNATASTORE01 - CONSULTAVEL 1.5K DE LIMITE",
+    "preco": 100.00,
+    "estoque": 1,
+    "descricao": "💳 CONSULTAVEL COM 1.5K DE LIMITE MASCULINA.\n🔥 PRONTA PRA QUALQUER TRAMPO\n💰 CONSULTAVEL PERFEITA PARA VIRADAS DE SALDO OU COMPRAS EM SITES!",
+    "categoria": "consultaveis"
+  }
+}
