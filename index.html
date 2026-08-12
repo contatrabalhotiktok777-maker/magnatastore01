@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAGNATASTORE01</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <div class="header">
+        <h1>🏪 MAGNATASTORE01</h1>
+        <p>A melhor loja para seus trampos!</p>
+        <div style="margin-top: 10px;">
+            <!-- Botão Admin (sempre visível) -->
+            <button id="btnAdmin" onclick="abrirLogin()" style="background: transparent; border: 1px solid #2b2d31; color: #a0a0a0; padding: 6px 18px; border-radius: 5px; cursor: pointer; font-size: 0.85em;">
+                🔐 Admin
+            </button>
+            <!-- Painel Admin (só aparece depois de logado) -->
+            <span id="adminPanel" style="display: none;">
+                <span style="color: #00ff88; font-size: 0.9em; margin-left: 10px;">👤 Admin</span>
+                <button onclick="abrirAdmin()" style="background: #00ff88; border: none; color: #1a1b1e; padding: 6px 18px; border-radius: 5px; cursor: pointer; font-size: 0.85em; margin-left: 10px; font-weight: bold;">
+                    ⚙️ Painel
+                </button>
+                <button onclick="fazerLogout()" style="background: #ff4444; border: none; color: #fff; padding: 6px 18px; border-radius: 5px; cursor: pointer; font-size: 0.85em; margin-left: 5px;">
+                    Sair
+                </button>
+            </span>
+        </div>
+    </div>
+
+    <!-- MODAL DE LOGIN -->
+    <div id="modalLogin" class="modal">
+        <div class="modal-content" style="max-width: 400px;">
+            <div class="modal-header">
+                <h2>🔐 Acesso Admin</h2>
+                <span class="fechar" onclick="fecharLogin()">&times;</span>
+            </div>
+            <div id="loginMensagem" style="padding: 10px; border-radius: 5px; margin-bottom: 15px; display: none;"></div>
+            <div class="form-group">
+                <label>👤 Usuário</label>
+                <input type="text" id="loginUsuario" placeholder="Digite o usuário">
+            </div>
+            <div class="form-group">
+                <label>🔑 Senha</label>
+                <input type="password" id="loginSenha" placeholder="Digite a senha" onkeypress="if(event.key==='Enter') fazerLogin()">
+            </div>
+            <button class="btn btn-comprar" onclick="fazerLogin()">Entrar</button>
+            <button class="btn" onclick="fecharLogin()" style="margin-top: 10px; background: #444; color: #fff;">Cancelar</button>
+        </div>
+    </div>
+
+    <!-- MODAL ADMIN (PAINEL) -->
+    <div id="modalAdmin" class="modal">
+        <div class="modal-content" style="max-width: 800px;">
+            <div class="modal-header">
+                <h2>⚙️ Painel Administrativo</h2>
+                <span class="fechar" onclick="fecharAdmin()">&times;</span>
+            </div>
+            <div id="adminConteudo">
+                <div class="loading">Carregando...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- CARRINHO FLUTUANTE -->
+    <div class="carrinho-flutuante" onclick="abrirModalCarrinho()">
+        🛒
+        <span class="carrinho-count" id="carrinhoCount">0</span>
+    </div>
+
+    <!-- CONTAINER PRINCIPAL -->
+    <div class="container">
+        <!-- Categorias -->
+        <div class="categorias">
+            <button class="categoria-btn ativo" onclick="filtrarCategoria('todos', event)">Todos</button>
+            <button class="categoria-btn" onclick="filtrarCategoria('viradas', event)">💰 Viradas</button>
+            <button class="categoria-btn" onclick="filtrarCategoria('cursos', event)">📚 Cursos</button>
+            <button class="categoria-btn" onclick="filtrarCategoria('cc', event)">💳 CCs</button>
+            <button class="categoria-btn" onclick="filtrarCategoria('consultaveis', event)">📄 Consultáveis</button>
+        </div>
+
+        <!-- Grid de Produtos -->
+        <div class="produtos-grid" id="produtosGrid">
+            <div class="loading">Carregando produtos...</div>
+        </div>
+    </div>
+
+    <!-- MODAL DO CARRINHO -->
+    <div id="modalCarrinho" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>🛒 Meu Carrinho</h2>
+                <span class="fechar" onclick="fecharModalCarrinho()">&times;</span>
+            </div>
+            <div id="carrinhoConteudo"></div>
+        </div>
+    </div>
+
+    <!-- MODAL DE PAGAMENTO -->
+    <div id="modalPagamento" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>💰 Pagamento</h2>
+                <span class="fechar" onclick="fecharModalPagamento()">&times;</span>
+            </div>
+            <div id="pagamentoConteudo"></div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
