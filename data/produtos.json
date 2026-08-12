@@ -1,0 +1,114 @@
+{
+  "1": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 1K",
+    "preco": 60.00,
+    "estoque": 10,
+    "descricao": "? Virada de saldo 1K - Extraia de R$700 a R$800",
+    "categoria": "viradas"
+  },
+  "2": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 1.5K",
+    "preco": 90.00,
+    "estoque": 8,
+    "descricao": "? Virada de saldo 1.5K - Extraia de R$1.100 a R$1.200",
+    "categoria": "viradas"
+  },
+  "3": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 2K",
+    "preco": 120.00,
+    "estoque": 6,
+    "descricao": "? Virada de saldo 2K - Extraia de R$1.500 a R$1.600",
+    "categoria": "viradas"
+  },
+  "4": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 2.5K",
+    "preco": 150.00,
+    "estoque": 4,
+    "descricao": "? Virada de saldo 2.5K - Extraia de R$1.900 a R$2.000",
+    "categoria": "viradas"
+  },
+  "5": {
+    "titulo": "MAGNATASTORE01 - VIRADA DE SALDO 3K",
+    "preco": 180.00,
+    "estoque": 2,
+    "descricao": "? Virada de saldo 3K - Extraia de R$2.300 a R$2.400",
+    "categoria": "viradas"
+  },
+  "6": {
+    "titulo": "MAGNATASTORE01 - CURSO DO 7 ATUALIZADO 2026",
+    "preco": 75.00,
+    "estoque": 2,
+    "descricao": "?? Curso completo do 7 com 8 modulos",
+    "categoria": "cursos"
+  },
+  "7": {
+    "titulo": "MAGNATASTORE01 - REEMBOLSO PIX",
+    "preco": 114.90,
+    "estoque": 3,
+    "descricao": "?? Reembolso via sistema MED do Banco Central",
+    "categoria": "cursos"
+  },
+  "8": {
+    "titulo": "MAGNATASTORE01 - SISTEMA DE OBITO",
+    "preco": 114.90,
+    "estoque": 3,
+    "descricao": "?? Sistema de obito via CADSUS",
+    "categoria": "cursos"
+  },
+  "9": {
+    "titulo": "MAGNATASTORE01 - ESQUEMA DIMAS FF 2026",
+    "preco": 20.00,
+    "estoque": 100,
+    "descricao": "?? Diamantes ilimitados no Free Fire",
+    "categoria": "cursos"
+  },
+  "10": {
+    "titulo": "MAGNATASTORE01 - ATESTADO MEDICO",
+    "preco": 19.90,
+    "estoque": 3,
+    "descricao": "?? Atestado medico editavel",
+    "categoria": "cursos"
+  },
+  "11": {
+    "titulo": "MAGNATASTORE01 - CC Standard",
+    "preco": 30.00,
+    "estoque": 10,
+    "descricao": "?? CC Standard com garantia",
+    "categoria": "cc"
+  },
+  "12": {
+    "titulo": "MAGNATASTORE01 - CC Gold",
+    "preco": 50.00,
+    "estoque": 7,
+    "descricao": "?? CC Gold com garantia",
+    "categoria": "cc"
+  },
+  "13": {
+    "titulo": "MAGNATASTORE01 - CC Platinum",
+    "preco": 50.00,
+    "estoque": 9,
+    "descricao": "?? CC Platinum com garantia",
+    "categoria": "cc"
+  },
+  "14": {
+    "titulo": "MAGNATASTORE01 - CC Black",
+    "preco": 80.00,
+    "estoque": 11,
+    "descricao": "?? CC Black com garantia",
+    "categoria": "cc"
+  },
+  "15": {
+    "titulo": "MAGNATASTORE01 - CONSULTAVEL 600",
+    "preco": 74.90,
+    "estoque": 1,
+    "descricao": "?? Consultavel com 600 de limite",
+    "categoria": "consultaveis"
+  },
+  "16": {
+    "titulo": "MAGNATASTORE01 - CONSULTAVEL 1.5K",
+    "preco": 100.00,
+    "estoque": 1,
+    "descricao": "?? Consultavel com 1.5K de limite",
+    "categoria": "consultaveis"
+  }
+}
